@@ -1,4 +1,3 @@
-
 ARG GOVERSION=1.21
 ARG GOARCH
 FROM golang:${GOVERSION} as builder
